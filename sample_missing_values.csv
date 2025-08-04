@@ -1,0 +1,11 @@
+Name,Age,Gender,City,Score
+Alice,25,Female,New York,85.0
+Bob,,Male,Los Angeles,78.0
+Charlie,30,,Chicago,
+David,22,Male,,65.0
+,Eve,Female,Miami,92.0
+Frank,27,Male,Houston,
+Grace,29,,Dallas,88.0
+Hannah,,Female,San Diego,90.0
+Ian,31,Male,,75.0
+Julia,24,Female,Boston,
